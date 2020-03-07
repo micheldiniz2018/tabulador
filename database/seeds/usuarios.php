@@ -67,7 +67,7 @@ class usuarios extends Seeder
         $user->usuariox = 'X111111';
         $user->aspect = 'BMFARIA';
         $user->password = Hash::make('lidera123@bianca');
-        $user->superiors_id = 2;
+        $user->superiors_id = 1;
         $user->cargos_id = 3;
         $user->ilha_id = 2;
         $user->save();
@@ -78,7 +78,7 @@ class usuarios extends Seeder
         $user->usuariox = 'X111111';
         $user->aspect = 'GCOLUCI';
         $user->password = Hash::make('lidera123@guilherme');
-        $user->superiors_id = 2;
+        $user->superiors_id = 1;
         $user->cargos_id = 3;
         $user->ilha_id = 2;
         $user->save();
@@ -89,7 +89,7 @@ class usuarios extends Seeder
         $user->usuariox = 'X111111';
         $user->aspect = 'Rbpaes';
         $user->password = Hash::make('lidera123@rhawanny');
-        $user->superiors_id = 2;
+        $user->superiors_id = 1;
         $user->cargos_id = 3;
         $user->ilha_id = 2;
         $user->save();

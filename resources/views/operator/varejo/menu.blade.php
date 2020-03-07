@@ -5,7 +5,7 @@
         <a class="font-w600 text-dual" href="{{ redirect('/home') }}">
             <i class="fa fa-user text-primary"></i>
             <span class="smini-hide">
-                            <span class="font-w700 font-size-h5">MD</span> <span class="font-w400">3.0</span>
+                            <span class="font-w700 font-size-h5">TABULADOR</span></span>
             </span>
         </a>
         <!-- END Logo -->

@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="block-content">
                                         <div class="p-sm-3 px-lg-4 py-lg-5">
-                                            <h1 class="mb-2">MD CALL CENTER</h1>
+                                            <h1 class="mb-2">TABULADOR CALL CENTER</h1>
                                             <p style="font-size: 10pt;">Bem Vindo, por favor entre com suas credências.</p>
 
                                             <form class="js-validation-signin" action="{{ route('login') }}" method="POST">
@@ -61,7 +61,7 @@
                         </div>
                     </div>
                     <div class="content content-full font-size-sm text-muted text-center">
-                        <strong>Liderança cobranças Inteligentes </strong> &copy; {{ @date('Y') }}
+                        <strong>TABULADOR </strong> &copy; {{ @date('Y') }}
                     </div>
                 </div>
             </div>
